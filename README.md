@@ -1,1 +1,1 @@
-# GMTK_JAM
+GMTK jam from MISiS students
